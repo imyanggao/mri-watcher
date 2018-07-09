@@ -7,4 +7,7 @@
   * Qt4
   * ITK
 
+## Screenshot
+  ![Alt text](/images/mriwatcher-screenshot.png?raw=true "MriWatcher")
+
   
